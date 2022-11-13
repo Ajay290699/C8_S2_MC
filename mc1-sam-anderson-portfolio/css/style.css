@@ -1,0 +1,9 @@
+/* Write CSS code here */
+h{
+    font-family:latin;
+    margin-left: 20px;
+    border: solid black;
+}
+body{
+    color: Light Gray - rgba(0,0,0,0.1);
+}
